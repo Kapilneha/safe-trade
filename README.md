@@ -10,7 +10,7 @@ This web application uses an LSTM model (TensorFlow/Keras) to predict future sto
 
 ## Backend
 - Python, Flask
-- TensorFlow/Keras LSTM model
+- TensorFlow/Keras API LSTM model
 - yfinance for stock data
 - Model and scaler are saved for fast predictions
 
